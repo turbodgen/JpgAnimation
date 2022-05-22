@@ -1,6 +1,6 @@
 <h1>JPG Image</h1>
 <h3>This just makes a small clip of an image being destroyed.<br>I made this because I was bored.</h3>
-![GIF of output](other/jpgImg.gif)
+![GIF of output](/other/jpgImg.gif)
 <br>
 <h2>How-To</h2![Uploading jpgImg.gif…]()
 >
