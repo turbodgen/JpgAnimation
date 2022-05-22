@@ -1,8 +1,8 @@
 <h1>JPG Image</h1>
 <h3>This just makes a small clip of an image being destroyed.<br>I made this because I was bored.</h3>
-![GIF of output](/other/jpgImg.gif)
+![jpgImg](https://user-images.githubusercontent.com/87042592/169705167-bd31c6e5-a7b7-423e-a377-f065063eb020.gif)
 <br>
-<h2>How-To</h2![Uploading jpgImg.gif…]()
+<h2>How-To</h2![jpgImg](https://user-images.githubusercontent.com/87042592/169705129-ae5fd0b7-c5ac-4a65-9ecc-ff71b3e51c27.gif)
 >
 <h3>Put your image file in the pngs folder.<br>Make sure there are no other images in the jpg or png folder.</h3>
 <h3>In 'main.py', you can turn resizing on if the image is too big.</h3>
@@ -10,3 +10,5 @@
 <h3>You can change the duration in 'video.py'.</b3>
 <br>
 <h3>You can do the whole thing by using 'all.py'</h3>
+![jpgImg](https://user-images.githubusercontent.com/87042592/169705167-bd31c6e5-a7b7-423e-a377-f065063eb020.gif)
+
