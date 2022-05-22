@@ -1,7 +1,7 @@
 from moviepy.editor import *
 
 clips = []
-bgMusic = AudioFileClip("sound.mp3")
+bgMusic = AudioFileClip("other/sound.mp3")
 
 for number in range(100):
     img = ImageClip(f"jpgs/Untitled{number}.jpg").set_duration(0.05)
