@@ -1,6 +1,0 @@
-just turns image into jpg over and over again for an animation.
-if video doesn't open, try another media player.
-
-idk why the music, i just randomly found it on my computer.
-
-all.py shows the order.
